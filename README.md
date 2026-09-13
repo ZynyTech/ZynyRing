@@ -28,3 +28,5 @@ If you want to change the buttons, shortcuts, or applications in the menu, open 
 - 'cmd': The path to your file or shortcut link, or the specific key combination you want to use (such as 'ctrl+c' or 'f21').
 - 'target_app': The executable name of the app where this button should be active (use 'Altijd' if you want it to show up everywhere).
 - 'is_spotify': Set to True if you want to enable the sub-menu controls for media playback.
+
+STILL IN BETA BTW
